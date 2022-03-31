@@ -2090,7 +2090,7 @@ _Only numbers starting with the code +91 (i.e. Indians) are allowed to join._`);
         case "pvx":
         case "link":
           reply(
-            "*─「 🔥 JOIN <{PVX}> FAMILY 🔥 」─*\n\n>> https://pvxcommunity.com <<"
+            "*─「 🔥 JOIN <{PVX}> FAMILY 🔥 」─*\n\n>> https://chat.whatsapp.com/HI5LmQDzcXGB5fMstKV70k <<"
           );
           break;
 
@@ -2439,7 +2439,7 @@ _Only numbers starting with the code +91 (i.e. Indians) are allowed to join._`);
         /* ------------------------------- CASE: DEV ------------------------------ */
         case "dev":
           reply(
-            `*─「 <{PVX}> BOT 」 ─*\n\n_Message https://t.me/KryptonPVX in telegram to report any bug or to give new ideas/features for this bot!_ `
+            `*─「 <{PVX}> BOT 」 ─*\n\n_Message https://t.me/akshitbhatia2004 in telegram to report any bug or to give new ideas/features for this bot!_ `
           );
           break;
 
@@ -2568,7 +2568,7 @@ _Only numbers starting with the code +91 (i.e. Indians) are allowed to join._`);
         case "source":
           conn.sendMessage(
             from,
-            `*─「 <{PVX}> BOT 」 ─*\n\nhttps://github.com/Shubhamrawat5/whatsapp-bot \n\nGive a star if you like or using this. Many new cool helpful commands will be keep on adding.`,
+            `*─「 <{PVX}> BOT 」 ─*\n\nhttps://github.com/akshitbhatia2004/WhatsApp_Bot\n\nGive a star if you like or using this. Many new cool helpful commands will be keep on adding.`,
             MessageType.text,
             {
               quoted: mek,

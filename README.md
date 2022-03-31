@@ -29,7 +29,7 @@ Easy deploy your bot, steps in the bottom.
 1. After downloading and installing Heroku CLI in your system login to heroku cli using `heroku login` in command prompt or powershell.
 2. Add ffmpeg (_for sticker support_) in your heroku app using `heroku buildpacks:add https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git -a <your-app-name>`
 3. After adding ffmpeg now add 'Heroku Buildpack for Node.js' using `heroku buildpacks:add https://github.com/heroku/heroku-buildpack-nodejs.git -a <your-app-name>`
-4. Now download or clone the whatsapp-bot repo by `git clone https://github.com/Shubhamrawat5/whatsapp-bot.git`
+4. Now download or clone the whatsapp-bot repo by `git clone https://github.com/akshitbhatia2004/WhatsApp_Bot.git`
 5. Now enter in whatsapp-bot directory using `cd whatsapp-bot` in command prompt or terminal.
 6. Create the remote region using `heroku git:remote -a <your-app-name>`
 7. Now push the local repo in your heroku app using `git push heroku master`
